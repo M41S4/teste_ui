@@ -37,7 +37,7 @@ try {
 
 console.log('Abrindo site...');
 
-await driver.get('https://fatec.sp.gov.br/');
+await driver.get('https://www.fatecsp.br/');
 
 
 // Verificar título da página
